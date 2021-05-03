@@ -1,0 +1,9 @@
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\bin\Debug\netcoreapp3.1\LavaderoEjercicio.deps.json
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\bin\Debug\netcoreapp3.1\LavaderoEjercicio.dll
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\bin\Debug\netcoreapp3.1\LavaderoEjercicio.pdb
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.csprojAssemblyReference.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.AssemblyInfoInputs.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.AssemblyInfo.cs
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.csproj.CoreCompileInputs.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.dll
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\LavaderoEjercicio\obj\Debug\netcoreapp3.1\LavaderoEjercicio.pdb
