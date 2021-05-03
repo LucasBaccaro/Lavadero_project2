@@ -1,0 +1,16 @@
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.exe
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.deps.json
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.json
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.dev.json
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.dll
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.pdb
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\LavaderoEjercicio.dll
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\bin\Debug\netcoreapp3.1\LavaderoEjercicio.pdb
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csprojAssemblyReference.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfoInputs.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfo.cs
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csproj.CoreCompileInputs.cache
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csproj.CopyComplete
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.dll
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.pdb
+H:\REPOS VSTUDIO\LABORATORIO II\clase09\LavaderoEjercicio\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.genruntimeconfig.cache
